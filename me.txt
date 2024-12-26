@@ -5,6 +5,7 @@ Merging the same line.
 We are creating conflict.
 We get magic.
 With add and commit
+we are learning cloud computing
 
 
 
