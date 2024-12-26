@@ -4,6 +4,8 @@ We are leaning git and github.
 Merging the same line.
 We are creating conflict.
 We get magic.
+With add and commit
+
 
 
 
